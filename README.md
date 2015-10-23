@@ -1,0 +1,2 @@
+# MakeListFile
+caffeのトレーニング用画像とかをリスティングするやつ
